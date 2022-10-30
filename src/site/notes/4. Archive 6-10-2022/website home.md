@@ -7,5 +7,9 @@ Hi, I am Hien. You're looking at my digital garden. This is the place I publish 
 > [!warning]
 >  **Writings here are raw and haven't been edited**, so expect grammatical and coherence issues at multiple places.
 
-## Book note
+# Book note
 [[4. Archive 6-10-2022/Sources/books/{ How money works|{ How money works]]
+
+# Outline
+## writing 
+[[Layer 4 - writing inbox/§ satisficing as a way to counter the never-ending hunger for more|§ satisficing as a way to counter the never-ending hunger for more]]
