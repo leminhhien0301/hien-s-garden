@@ -10,3 +10,5 @@ Data is essential to knowledge workers no matter their jobs. Data helps guiding 
 Let’s take the case of a content website owner. They care about content quality. But, as knowledge workers, they also review Google Analytics regularly. They examine top traffic sources and pieces of content, and these use stats to harness their competitive advantage more effectively.
 
 Reviewing data is like a day job. You may not like it but it keeps the wheel runs towards the destination we want
+## Processing information 
+A knowledge worker reviews a data set and uses that information to act.
