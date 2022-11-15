@@ -129,4 +129,4 @@
 
 # Lesson
 ## it’s extremely foolish to hold cash or interest-bearing instruments.
-[[4. Archive 6-10-2022/Sources/books/{ How money works#ngân hàng trung ương là băng đảng bảo kê ngân hàng|#ngân hàng trung ương là băng đảng bảo kê ngân hàng]]. Nó chỉ quan tâm tới lợi ích trước mắt là thoả mãn nhu cầu các ngân hàng con và sự tồn tại của chính nó. Tiền mặt, thứ bị ngân hàng trung ương kiểm soát, sẽ luôn được điều chỉnh có lợi nhất cho lợi ích của nó. 
+[[4. Archive 6-10-2022/Sources/books/{ How money works#ngân hàng trung ương là băng đảng bảo kê ngân hàng\|#ngân hàng trung ương là băng đảng bảo kê ngân hàng]]. Nó chỉ quan tâm tới lợi ích trước mắt là thoả mãn nhu cầu các ngân hàng con và sự tồn tại của chính nó. Tiền mặt, thứ bị ngân hàng trung ương kiểm soát, sẽ luôn được điều chỉnh có lợi nhất cho lợi ích của nó. 
