@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive-6-10-2022/website-home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/4-archive-6-10-2022/website-home/","tags":["gardenEntry"],"dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 Hi, I am Hien. You're looking at my digital garden. This is the place I publish my raw notes and thoughts.
