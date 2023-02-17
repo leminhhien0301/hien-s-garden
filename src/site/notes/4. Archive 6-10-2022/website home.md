@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive-6-10-2022/website-home/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/4-archive-6-10-2022/website-home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 Hi, I am Hien. You're looking at my digital garden. This is the place I publish my raw notes and thoughts.
@@ -12,4 +12,4 @@ Hi, I am Hien. You're looking at my digital garden. This is the place I publish 
 
 # Outline
 ## writing 
-[[4. Archive 6-10-2022/§ways confront finitude and why you need to do so\|§ways confront finitude and why you need to do so]]
+[[zettelkasten/outline or MOC/§ways confront finitude and why you need to do so\|§ways confront finitude and why you need to do so]]
