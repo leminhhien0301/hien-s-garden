@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive-6-10-2022/sources/books/how-money-works/"}
+{"dg-publish":true,"permalink":"/4-archive-6-10-2022/sources/books/how-money-works/","tags":["book"],"noteIcon":""}
 ---
 
 # highlight
